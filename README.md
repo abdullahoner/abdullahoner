@@ -1,7 +1,7 @@
 ### Hi there, I'm Abdullah 👋
 
 - 🔭 I’m currently working on UI,MobApp and API testing
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate on other content creators
 - 🥅 2023 Goals: Have more experinece in testing
 - 📫 How to reach me:
